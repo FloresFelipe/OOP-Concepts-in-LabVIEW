@@ -1,0 +1,1 @@
+Classes abstratas ajudam no reaproveitamento de código, através da implementação de rotinas comuns a todas as subclasses na classe mais abstrata.
