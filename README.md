@@ -11,20 +11,7 @@ Presentation on OOP Concepts With Examples in LabVIEW
 - [ ] Melhorar refer�ncias.
 - [ ] Apresentar e cronometrar o tempo.
 
----
-title: 'Looking at the demographics issue'
-author: "Mike"
-date: "April 9th, 2016"
-output:
-  html_document:
-    number_sections: no
-    toc: yes
-    toc_depth: 2
-fontsize: 12pt
----
-
-# Introduction
-
-Here is some interesting stuff that I want to talk about.  But first, let's review those earlier demographic maps we'd seen.
-
-!![demographics map]('Teste.html')
+<iframe
+  src="Teste.html"
+  style="width:100%; height:300px;"
+></iframe>
