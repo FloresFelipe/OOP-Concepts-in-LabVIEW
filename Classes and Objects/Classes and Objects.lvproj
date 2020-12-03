@@ -10,8 +10,8 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Classes and Objects.vi" Type="VI" URL="../Classes and Objects.vi"/>
 		<Item Name="Signal Waveform.lvclass" Type="LVClass" URL="../Signal Waveform/Signal Waveform.lvclass"/>
+		<Item Name="Waveform Generator App.lvclass" Type="LVClass" URL="../Waveform Generator App/Waveform Generator App.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>

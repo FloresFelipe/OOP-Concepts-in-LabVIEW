@@ -1,0 +1,1 @@
+estabelece um link permanente entre as classes. Verá uma classe como atributo de outra

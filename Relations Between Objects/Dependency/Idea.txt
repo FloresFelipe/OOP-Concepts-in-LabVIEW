@@ -1,0 +1,1 @@
+Uma classe é criada ou chamada de dentro de um método de outra classe. Não estabelece um link permanente entre as classes
