@@ -4,9 +4,9 @@ Presentation on OOP Concepts With Examples in LabVIEW
 
 # Pending Items
 
-- [x] Adicionar exemplos das rela��es entre classes.
-- [x] Fazer demo da cria��o da classe DMM.
-- [ ] Inserir imagens dos padr�es de projetos (N�o usar UML, apenas LabVIEW).
-- [X] Melhorar texto da conclus�o.
-- [X] Melhorar refer�ncias.
-- [ ] Apresentar e cronometrar o tempo.
+- [x] Adicionar exemplos das relações entre classes.
+- [x] Fazer demo da criação da classe DMM.
+- [x] Inserir imagens dos padrões de projetos (Não usar UML, apenas LabVIEW).
+- [x] Melhorar texto da conclusão.
+- [x] Melhorar referências.
+- [x] Apresentar e cronometrar o tempo.
