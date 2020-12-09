@@ -13,7 +13,6 @@
 		<Item Name="Object Oriented" Type="Folder">
 			<Item Name="Pump Class" Type="Folder">
 				<Item Name="Pump.lvclass" Type="LVClass" URL="../Object Oriented/Pump Class/Pump.lvclass"/>
-				<Item Name="pumpOff.vi" Type="VI" URL="../Object Oriented/Pump Class/pumpOff.vi"/>
 			</Item>
 			<Item Name="Sensor Class" Type="Folder">
 				<Item Name="Sensor.lvclass" Type="LVClass" URL="../Object Oriented/Sensor Class/Sensor.lvclass"/>
@@ -25,7 +24,7 @@
 		</Item>
 		<Item Name="Task Oriented" Type="Folder">
 			<Item Name="Sensor Persistence State.vi" Type="VI" URL="../Task Oriented/Sensor Persistence State.vi"/>
-			<Item Name="Water box.vi" Type="VI" URL="../Task Oriented/Water box.vi"/>
+			<Item Name="Water Tank.vi" Type="VI" URL="../Task Oriented/Water Tank.vi"/>
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>

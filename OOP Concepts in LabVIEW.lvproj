@@ -14,11 +14,11 @@
 		<Item Name="1. OOP Vs Task Oriented" Type="Folder">
 			<Item Name="OOP Vs Task Oriented.lvproj" Type="Document" URL="../OOP Vs Task Oriented/OOP Vs Task Oriented.lvproj"/>
 		</Item>
-		<Item Name="2. Creating a Class" Type="Folder">
-			<Item Name="DMM Class.lvproj" Type="Document" URL="../Creating a Class/DMM Class.lvproj"/>
-		</Item>
-		<Item Name="3. Pillars of OOD" Type="Folder">
+		<Item Name="2. Pillars of OOD" Type="Folder">
 			<Item Name="Hardware Abstraction.lvproj" Type="Document" URL="../Pillars of OOD/Hardware Abstraction/Hardware Abstraction.lvproj"/>
+		</Item>
+		<Item Name="3. Creating a Class" Type="Folder">
+			<Item Name="DMM Class.lvproj" Type="Document" URL="../Creating a Class/DMM Class.lvproj"/>
 		</Item>
 		<Item Name="4. Relations Between Objects" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -26,6 +26,7 @@
 			<Item Name="Hardware Abstraction With Interfaces.lvproj" Type="Document" URL="../Relations Between Objects/Interface Implemetation/Hardware Abstraction With Interfaces.lvproj"/>
 		</Item>
 		<Item Name="Introdução a Programação Orientada a Objetos em LabVIEW.pptx" Type="Document" URL="../Introdução a Programação Orientada a Objetos em LabVIEW.pptx"/>
+		<Item Name="Introducción a la Programación Orientada a Objetos (OOP) en LabVIEW.pptx" Type="Document" URL="../Introducción a la Programación Orientada a Objetos (OOP) en LabVIEW.pptx"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
