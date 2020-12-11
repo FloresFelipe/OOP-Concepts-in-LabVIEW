@@ -11,19 +11,19 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Observer Pattern Example" Type="Folder">
-			<Item Name="Observable" Type="Folder">
-				<Item Name="Observable.lvclass" Type="LVClass" URL="../Observer Pattern Example/Observable/Observable.lvclass"/>
-				<Item Name="Weather Station.lvclass" Type="LVClass" URL="../Observer Pattern Example/Weather Station/Weather Station.lvclass"/>
+			<Item Name="NotificationFactory" Type="Folder">
+				<Item Name="NotificationFactory.lvclass" Type="LVClass" URL="../Observer Pattern Example/ObserverFactory/NotificationFactory.lvclass"/>
 			</Item>
-			<Item Name="Observer" Type="Folder">
+			<Item Name="Notifications" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">3</Property>
-				<Item Name="Observer.lvclass" Type="LVClass" URL="../Observer Pattern Example/Observer/Observer.lvclass"/>
+				<Item Name="Notification.lvclass" Type="LVClass" URL="../Observer Pattern Example/Observer/Notification.lvclass"/>
 				<Item Name="Email Notification.lvclass" Type="LVClass" URL="../Observer Pattern Example/Email Notication/Email Notification.lvclass"/>
 				<Item Name="SMS Notification.lvclass" Type="LVClass" URL="../Observer Pattern Example/SMS Notification/SMS Notification.lvclass"/>
 				<Item Name="Log Notification to File.lvclass" Type="LVClass" URL="../Observer Pattern Example/Log Notification to File/Log Notification to File.lvclass"/>
 			</Item>
-			<Item Name="ObserverFactory" Type="Folder">
-				<Item Name="ObserverFactory.lvclass" Type="LVClass" URL="../Observer Pattern Example/ObserverFactory/ObserverFactory.lvclass"/>
+			<Item Name="Weather Station" Type="Folder">
+				<Item Name="Observable.lvclass" Type="LVClass" URL="../Observer Pattern Example/Observable/Observable.lvclass"/>
+				<Item Name="Weather Station.lvclass" Type="LVClass" URL="../Observer Pattern Example/Weather Station/Weather Station.lvclass"/>
 			</Item>
 			<Item Name="ObserverDemo.vi" Type="VI" URL="../Observer Pattern Example/ObserverDemo.vi"/>
 		</Item>

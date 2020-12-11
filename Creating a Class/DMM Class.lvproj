@@ -11,7 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DMM.lvclass" Type="LVClass" URL="../DMM/DMM.lvclass"/>
-		<Item Name="TestVI.vi" Type="VI" URL="../DMM/TestVI.vi"/>
+		<Item Name="TestVI.vi" Type="VI" URL="../TestVI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Random Number (Range) DBL.vi" Type="VI" URL="/&lt;vilib&gt;/numeric/Random Number (Range) DBL.vi"/>
